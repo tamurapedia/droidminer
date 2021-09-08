@@ -1,0 +1,2 @@
+# droidminer
+Miner crypto
